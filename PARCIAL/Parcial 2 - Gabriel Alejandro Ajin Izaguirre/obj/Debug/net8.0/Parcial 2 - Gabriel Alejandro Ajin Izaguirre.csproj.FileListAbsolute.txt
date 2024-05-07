@@ -1,0 +1,14 @@
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.AssemblyInfoInputs.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.AssemblyInfo.cs
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.csproj.CoreCompileInputs.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\bin\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.exe
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\bin\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.deps.json
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\bin\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.runtimeconfig.json
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\bin\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\bin\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.pdb
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\refint\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.pdb
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.genruntimeconfig.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Parcial 2 - Gabriel Alejandro Ajin Izaguirre\obj\Debug\net8.0\ref\Parcial 2 - Gabriel Alejandro Ajin Izaguirre.dll
