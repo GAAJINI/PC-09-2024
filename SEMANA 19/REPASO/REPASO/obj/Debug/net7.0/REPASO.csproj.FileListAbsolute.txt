@@ -1,0 +1,15 @@
+C:\Users\Ajin1\Desktop\REPASO\bin\Debug\net7.0\REPASO.exe
+C:\Users\Ajin1\Desktop\REPASO\bin\Debug\net7.0\REPASO.deps.json
+C:\Users\Ajin1\Desktop\REPASO\bin\Debug\net7.0\REPASO.runtimeconfig.json
+C:\Users\Ajin1\Desktop\REPASO\bin\Debug\net7.0\REPASO.dll
+C:\Users\Ajin1\Desktop\REPASO\bin\Debug\net7.0\REPASO.pdb
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.csproj.AssemblyReference.cache
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.AssemblyInfoInputs.cache
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.AssemblyInfo.cs
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.csproj.CoreCompileInputs.cache
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.dll
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\refint\REPASO.dll
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.pdb
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\REPASO.genruntimeconfig.cache
+C:\Users\Ajin1\Desktop\REPASO\obj\Debug\net7.0\ref\REPASO.dll
