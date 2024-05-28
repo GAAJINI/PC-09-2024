@@ -1,0 +1,14 @@
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\bin\Debug\net8.0\Examen Final.exe
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\bin\Debug\net8.0\Examen Final.deps.json
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\bin\Debug\net8.0\Examen Final.runtimeconfig.json
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\bin\Debug\net8.0\Examen Final.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\bin\Debug\net8.0\Examen Final.pdb
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.AssemblyInfoInputs.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.AssemblyInfo.cs
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.csproj.CoreCompileInputs.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\refint\Examen Final.dll
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.pdb
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\Examen Final.genruntimeconfig.cache
+C:\Users\Edgar_Ajin\OneDrive\Escritorio\Examen Final\obj\Debug\net8.0\ref\Examen Final.dll
